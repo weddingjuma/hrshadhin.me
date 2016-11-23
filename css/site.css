@@ -1,0 +1,101 @@
+@media screen and (min-width: 768px) {
+  .site-title {
+    background: #2ba163;
+  }
+}
+
+a {
+  color: #009966;
+}
+
+a:hover {
+  color: #8acb82;
+}
+input[type=submit]:hover,
+input[type=button]:hover,
+button:hover,
+a.button:hover,
+.event h3,
+.event h2+ p i,
+.event h2+ p img,
+#search-submit,
+.entry-meta .cat-links a,
+.pagination a:hover,
+.navigation a:hover,
+a.more-link:hover,
+#nprogress .bar,
+.section-title h2 i,
+.event:nth-of-type(2):after {
+  background-color: #8acb82;
+}
+
+.bypostauthor> article {
+  border-color: #8acb82;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #8acb82;
+  border-left-color: #8acb82;
+}
+
+.event h3:before {
+  border-color: #8acb82;
+}
+
+body .mejs-controls .mejs-time-rail .mejs-time-current {
+  background: #8acb82;
+}
+.one-page-layout .site-main> section:nth-of-type(3) {
+  background-color: #ebf0df;
+}
+
+
+
+
+
+.section-title-warning h2{
+  background-color:red !important;
+}
+.section-title-warning h2 i{
+  background-color:red !important;
+}
+.section-title-warning h2:after, .section-title-warning h2:before{
+  background-color:red !important;
+}
+.event:nth-of-type(3):after {
+    background-color: #8ACB82;
+}
+.event:nth-of-type(4):after {
+    background-color: #8ACB82;
+}
+.event:nth-of-type(5):after {
+    background-color: #8ACB82;
+}
+.event:nth-of-type(9):after {
+    background-color: #8ACB82;
+}
+.event:nth-of-type(10):after {
+    background-color: #8ACB82;
+}
+.skills-circle .event:after {
+    background-color: #345 !important;
+}
+
+#apps{
+  background-color: #ECF0F0 !important;
+  color: #333 !important;
+}
+
+#apps .button{
+  color: #333 !important;
+  border-color: #333 !important;
+}
+.white{
+  color: #fff !important;
+}
+.contact-form{
+  color: #fff !important;
+}
+input,textarea{
+  color: #fff !important;
+}
