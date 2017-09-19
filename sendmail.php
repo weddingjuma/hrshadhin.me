@@ -14,7 +14,7 @@ if($_SERVER['REQUEST_METHOD']=="POST")
   # Make the call to the client.
   $result = $mgClient->sendMessage($domain, array(
     'from'    => 'Web Master<webmaster@hrshadhin.me>',
-    'to'      => 'H.R.Shadhin <root@hrshadhin.me>',
+    'to'      => 'H.R.Shadhin <hello@hrshadhin.me>',
     'subject' => $name.'['.$email.']',
     'text'    => $message
   ));
